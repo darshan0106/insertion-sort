@@ -49,6 +49,6 @@ Here, n is the number of elements in the list.
 * The sorted array is printed to the console.
 
 **Usage**
-1 Run the code.
-2 Enter the elements of the array when prompted. Separate each element with a space.
-3 The program will output the original array before sorting and the sorted array after applying insertion sort.
+* Run the code.
+* Enter the elements of the array when prompted. Separate each element with a space.
+* The program will output the original array before sorting and the sorted array after applying insertion sort.
